@@ -32,9 +32,6 @@ Edit
 
 4. **Edit the script** and change the folder path:
 
-```python
-folder = "/full/path/to/your/folder"
+
 Run the script:
-
-
 python3 rename.py
